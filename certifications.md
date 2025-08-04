@@ -12,7 +12,7 @@ Here are the certifications I'm currently pursuing to upskill in modern supply c
 
 ---
 
-## Excel Dashboards for Beginners  
+## Excel Dashboards  
 - **Status**: 90% complete  
 - **Platform**: LinkedIn Learning  
 - *Screenshot coming soon*  
