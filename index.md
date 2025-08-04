@@ -9,7 +9,7 @@ Currently:
 
 ---
 
-## 🚀 Explore My Work
+## Explore My Work
 
 - [Certifications](./certifications.md)
 - [Resume (PDF)](resume.pdf) – Coming Soon
