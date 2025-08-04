@@ -1,7 +1,7 @@
 
-# 👋 Welcome to My Portfolio
+## 👋 Welcome to My Portfolio
 
-I'm **Saikiran Kuchi**, a Supply Chain Management Professional with experience across India and Germany in procurement, analytics, and supply chain.
+I'm **Saikiran Kuchi**, a Supply Chain Management Professional with experience across India and Germany in procurement,project management, analytics, and supply chain.
 
 Currently:
 - Based in Munich, Germany (open to relocation)
