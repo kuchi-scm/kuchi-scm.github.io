@@ -10,7 +10,7 @@ Currently:
 ## Explore My Work
 
 - [Certifications](./certifications.md)
-- [Resume (PDF)](resume.pdf) – Coming Soon
+- [Download My Resume (PDF)](SupplyChain.pdf)
 - Projects – Coming Soon!
 
 ---
